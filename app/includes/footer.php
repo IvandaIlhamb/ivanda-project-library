@@ -1,7 +1,7 @@
 <footer>
     <div class="footer clearfix mb-0 text-muted">
         <div class="float-start">
-            <p>2023 &copy; Mazer - Modified by : M I Mustofa, Kevin Avicenna W, Ivanda Gabrila I B </p>
+            <p>2023 &copy; Ivanda Gabrila I B </p>
         </div>
         <div class="float-end">
             <p>

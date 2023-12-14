@@ -54,7 +54,7 @@
       $query = mysqli_query($koneksi, "SELECT * FROM buku");
       while ($katalog = mysqli_fetch_array($query)) {
         ?>
-        <div class="col-md-3 d-flex align-items-stretch">
+        <div class="col-lg d-flex align-items-stretch">
           <div class="card" style="width: 290px;">
             <div class="card-content">
               <div class="card-body">

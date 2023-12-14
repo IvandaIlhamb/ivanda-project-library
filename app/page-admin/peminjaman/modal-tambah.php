@@ -21,10 +21,10 @@
                         <div class="form-group">
                             <label for="basicInput">Tanggal Peminjaman</label>
                             <!-- <input type="text" class="form-control" name="tgl_pinjam" id="basicInput" placeholder="Masukkan Tanggal Peminjaman" required /> -->
-                            <input type="date" name="tgl_pinjam" class="form-control mb-3 flatpickr-no-config" placeholder="Masukkan Tanggal Peminjaman."/>
+                            <input type="date" name="tgl_pinjam" id="datepicker" class="form-control mb-3 flatpickr-no-config" placeholder="Masukkan Tanggal Peminjaman."/>
                             <label for="basicInput">Tanggal Jatuh Tempo</label>
                             <!-- <input type="text" class="form-control" name="tgl_jatuh_tempo" id="basicInput" placeholder="Masukkan Tanggal Jatuh Tempo" required /> -->
-                            <input type="date" name="tgl_jatuh_tempo" class="form-control mb-3 flatpickr-no-config" placeholder="Masukkan Tanggal Jatuh Tempo"/>
+                            <input type="date" name="tgl_jatuh_tempo" id="datepicker" class="form-control mb-3 flatpickr-no-config" placeholder="Masukkan Tanggal Jatuh Tempo"/>
                         </div>
                     </div>
                 </div>

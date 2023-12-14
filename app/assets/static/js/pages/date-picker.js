@@ -2,6 +2,7 @@
 flatpickr('.flatpickr-no-config', {
     enableTime: false,
     dateFormat: "Y-m-d", 
+    minDate: "today"
 })
 flatpickr('.flatpickr-always-open', {
     inline: true
