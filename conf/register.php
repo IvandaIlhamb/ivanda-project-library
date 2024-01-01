@@ -16,4 +16,5 @@
         $query = mysqli_query($koneksi, "INSERT INTO `member`(`username`, `password`, `nama`, `alamat`, `no_hp`, `tgl_pendaftaran`, `status`) VALUES ('$username','$password','$nama','$alamat','$no_hp','$tgl_daftar','member')");
         header('Location:../index.php?register');
     }
+    //end//
 ?>
