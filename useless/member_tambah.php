@@ -80,7 +80,7 @@
             </center>
         </div>
         <div class="kaki">
-        © 2023 Kevin Avicenna, Ivanda Gabrila, Imaduddin Mustofa 
+        © 2023 Ivanda Gabrila
         </div>
     </div>
 </body>

@@ -71,7 +71,7 @@
     </div>
 
     <div class="kaki">
-    © 2023 Kevin Avicenna, Ivanda Gabrila, Imaduddin Mustofa 
+    ©Ivanda Gabrila
     </div>
 
 </body>
