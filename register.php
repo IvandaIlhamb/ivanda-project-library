@@ -53,7 +53,7 @@
                                 <div class="card-body p-md-5 mx-md-4">
 
                                     <div class="text-center">
-                                        <img src="img/UMS.svg" style="width: 185px;" alt="logo">
+                                        <img src="img/Logo_UMS_Surakarta.png" style="width: 185px;" alt="logo">
                                         <h4 class="mt-1 mb-5 pb-1">UMS LIBRARY PAGE</h4>
                                     </div>
 
